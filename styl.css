@@ -1,0 +1,27 @@
+a {
+  text-decoration: none;
+}
+header {
+  height: 70px;
+  display: flex;
+  padding: 60px;
+  padding-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  width: 100vw;
+  left: 0;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+nav {
+  display: flex;
+}
+nav a {
+  padding: 10px 10px;
+}
+a {
+  text-decoration: none;
+  color: #737373;
+  padding-right: 21px;
+}
